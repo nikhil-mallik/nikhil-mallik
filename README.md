@@ -27,7 +27,7 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,swift,firebase,github,git,postman,figma&perline=5)](https://skillicons.dev)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-mallik&theme=dark)
 
 
 <br>
