@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Flutter and Swift
 - 🌱 I’m currently learning Swift
 - 💬 Ask me anything about Flutter 
-- 📫 How to reach me: lordnikhil11@gmail.com
+- 📫 How to reach me: er.nikhilmallik@gmail.com
 - ⚡ Fun fact: Traveling is my passion, and I'm a skilled rider with a license.
   
 ### Connect with me:
