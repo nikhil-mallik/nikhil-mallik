@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Mallik.</h1>
 
 - 🔭 I’m currently working on Flutter and Swift
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Swift and React Native
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: er.nikhilmallik@gmail.com
 - ⚡ Fun fact: Traveling is my passion, and I'm a skilled rider with a license.
